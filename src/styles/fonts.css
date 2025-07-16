@@ -1,0 +1,7 @@
+/* src/styles/fonts.css */
+h1, h2, h3, h4, h5, h6,
+.text-5xl, .text-4xl, .text-3xl, .text-2xl, .text-xl,
+.font-bold, .font-semibold {
+  font-family: "Times New Roman", Times, serif !important;
+  font-style: italic !important;
+}
